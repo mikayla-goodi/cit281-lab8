@@ -1,0 +1,43 @@
+/* 
+    CIT 281 Lab 8: style sheet 
+    Author: Mikayla Gooodi 
+*/
+
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  background-color: #f4f4f4;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 0.5rem;
+  background-color: #fff;
+  margin-bottom: 0.25rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+li:hover {
+  background-color: #e0e0e0;
+}
+
+.hidden {
+  display: none;
+}
+
+pre {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 4px;
+}
