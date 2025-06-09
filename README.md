@@ -14,3 +14,4 @@ This lab focused on building a simple RESTful API using Express.js. The server r
 - How to serve static files
 - How to use `fetch()` with `.then()` and `.catch()` in Node and browser
 
+![Screenshot of Lab 8](CBCE843C-4A41-4252-AC60-6681E8001260.png)
